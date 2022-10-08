@@ -4,3 +4,6 @@ cmake-build-debug/
 
 # binary
 main
+
+# cmake
+build/
