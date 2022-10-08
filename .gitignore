@@ -1,0 +1,6 @@
+# clion
+cmake-build-debug/
+.idea/
+
+# binary
+main
